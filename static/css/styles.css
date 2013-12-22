@@ -1,0 +1,203 @@
+/* Foundation */ 
+.button {
+  background-color: #cd4d4d;
+  font-weight: 300 !important;
+}
+.button:hover, .button:focus {
+  background-color: #aa4343;
+  font-weight: 300 !important;
+}
+body {
+  font-weight: 100;
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+/* Styles */
+html,body{
+  height: 100%
+}
+#home-container {
+  padding-top: 4%;
+  padding-bottom: 128px;
+}
+.container {
+  padding-top: 2rem;
+}
+.footer{
+  bottom: 0;
+  height: 128px;
+  left: 0;
+  position: absolute;
+  right: 0;
+}
+#dict {
+  width: auto;
+  display: inline-block;
+  text-align: left;
+}
+#dict #pronunciation {
+  color: #838383;
+}
+#dict #definitions {
+  font-size: 1.4375rem;
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  line-height: 1.8;
+  font-weight: 300;
+  list-style: none;
+  margin-left: 0px 
+}
+.link-group {
+  margin-top: 32px;
+}
+.link-button {
+  width: 79.65%;
+  font-size: 1.3875rem;
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+#social-group {
+  margin: 32px .625rem;
+}
+.social {
+  text-align: center;
+}
+.social img {
+  background-color: #cd4d4d;
+  background-color: #141414;
+  width: 128px;
+  height: auto;
+  margin-bottom: 2px;
+  -webkit-transition: background-color 150ms ease-out;
+  -moz-transition: background-color 150ms ease-out;
+  transition: background-color 150ms ease-out;
+}
+.social img:hover {
+  background-color: #282828;
+}
+.nav-title {
+  color: #ffffff;
+  padding: 8px 0;
+  font-weight: 100;
+  display: inline-block;
+}
+.nav-title > a {
+  color: #FFF;
+}
+.header-box {
+  background-color: #cd4d4d;
+  position: relative;
+  top: -65px;
+  padding-top: 67px;
+}
+.nav {
+  background-color: #cd4d4d;
+}
+.nav-list {
+  margin-top: .95rem;
+  font-size: 1.125rem;
+  display: none;
+}
+.nav-list .nav-link {
+  color: #fff;
+  font-weight: 300;
+  padding-bottom: 3px;
+}
+.nav-list .nav-link-selected, .nav-link:hover {
+  border-bottom: solid 2px;
+}
+#menu-toggle {
+  display: inline-block;
+  float: right;
+  margin-top: 11px;
+  cursor: pointer;
+}
+.page-title {
+  margin-top: 2rem;
+  color: #cd4d4d;
+}
+.year {
+  color: #cd4d4d;
+  margin-top: .2rem;
+  margin-bottom: 1rem;
+}
+.portfolio-button-group {
+  margin: 0;
+}
+.portfolio-button {
+  width: 100%;
+  margin-bottom: 4px;
+  padding: .895rem 1.685rem;
+}
+.portfolio-button img {
+  position: absolute;
+  
+  left: .73rem;
+  float: left;
+}
+#git-icon {
+  top: .814rem;
+  width: 21px;
+}
+#play-icon {
+  top: .874rem;
+  width: 17px;
+}
+.pf-title > a {
+  color: #222222;
+}
+.pf-title {
+  margin-bottom: 0;
+}
+.spacer {
+  max-width: 100%;
+  margin: 0 auto;
+  margin-top: 2.2rem;
+  margin-bottom: 2rem;
+  border-bottom: solid #e1e1e1 1px;
+  margin-right: 0.9375rem;
+  margin-left: 0.9375rem;
+}
+img.pf-margin {
+  margin-bottom: 1rem;
+}
+/* Define mobile styles */
+@media only screen { }
+/* max-width 640px, mobile-only */
+@media only screen and (max-width: 40em) { } 
+/* 641px, medium screens */
+@media only screen and (min-width: 40.063em)  { 
+  #name br {
+    display: none;
+  }
+  .nav-button {
+    width: 79%;
+  }
+  #social-group {
+    margin: 3rem .625rem;
+  }
+  .nav-list {
+    display: block !important;
+  }
+  .portfolio-button {
+    width: auto;
+    padding: .895rem 1.45rem;
+    padding-left: 2.53rem;
+    margin-right: 5px;
+  }
+  .spacer {
+    max-width: 970px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+/* Responsive */
+/* min-width 641px and max-width 1024px, tablet-only */
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { }
+/* min-width 1025px, large screens */
+@media only screen and (min-width: 64.063em) { }
+/* min-width 1024px and max-width 1440px, large screen-only */
+@media only screen and (min-width: 64.063em) and (max-width: 90em) { }
+/* min-width 1441px, xlarge screens */
+@media only screen and (min-width: 90.063em) { }
+/* min-width 1441px and max-width 1920px, use when QAing xlarge screen-only */
+@media only screen and (min-width: 90.063em) and (max-width: 120em) { } 
+ /* min-width 1921px, xxlarge screens */
+@media only screen and (min-width: 120.063em) { }
