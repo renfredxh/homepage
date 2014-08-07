@@ -132,11 +132,11 @@ html,body{
   left: .73rem;
   float: left;
 }
-#git-icon {
+.git-icon {
   top: .814rem;
   width: 21px;
 }
-#play-icon {
+.play-icon {
   top: .874rem;
   width: 17px;
 }
