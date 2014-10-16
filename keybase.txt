@@ -1,0 +1,69 @@
+htm://keybase.io/renfredxh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://renf.red
+  * I am renfredxh (https://keybase.io/renfredxh) on keybase.
+  * I have a public key with fingerprint C33E B29E 79D7 B679 C3AC  9EB4 4896 719E C9F7 6CF3
+
+To claim this, I am signing this object:
+
+{
+  "body": {
+    "key": {
+            "fingerprint": "c33eb29e79d7b679c3ac9eb44896719ec9f76cf3",
+            "host": "keybase.io",
+            "key_id": "4896719ec9f76cf3",
+            "uid": "259a358f89599c96265994a3ff888e00",
+            "username": "renfredxh"
+        
+    },
+      "service": {
+            "hostname": "renf.red",
+            "protocol": "http:"
+        
+      },
+        "type": "web_service_binding",
+        "version": 1
+    
+  },
+    "ctime": 1413502022,
+    "expire_in": 157680000,
+    "prev": "82a7bff0a22d2885db547e7fb9a1563cddef73e5a319ffa1778ea14e9391a3a9",
+    "seqno": 2,
+    "tag": "signature"
+
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.3
+Comment: https://keybase.io/crypto
+
+yMHhAnicbZFrSBRRGIZ3y42UBCkoTPrRiEGlsnOfM0YIZkhIiJl2w20uZ9zRdWZ3
+dtx2M6klCSwxolAsMLILaEuEsUSsxGJS2gXyTxelgiBcRVxKTc2wzkhBPzp/Ps57
+nvf9zsc3mL7almYvafd1Dc97Zuwv4tMNtorCir2NmKjLIYxvxOrgSlFUrQYaXkPV
+TIzHJJKEIgEgC2RWZFggkYIEoEhRHGBYHEAJKCwjKSSWi7l1v+VAMaLgh/mqjjR0
+cakyUv/DN6w8EDQQSJpTOEADIAGGYFClBFJROI6DTqcF+qGhCfUQ0QbUFAPKQTfW
+lIshOaBK0Pq01fsfJB8xyOg1dFOXdA9S3abp5S2TGfJa1Akouv74XaKqyWhoZAhA
+w6/qGsbjiJRM1QrEKZyknYSTIHIxGPSqBnSpFkGzDOdEx2oDAyiSIwRWVBSnQBAy
+wXG0LNIUC1lFBAJOM6Qky1BhSUgLJA4URcBZloMCTkFAAlwgBYBZE/k0HeNRJ1Oo
+QZF+tUYTzAYDYk0D8WMpNnuabY1jlbU2W1pqxt9ldhtrbXeTfaGsSNfSq8099w4M
+qJkfWyNF9kBm1YSnt7eqLNI972nf1bMcVnDmR1bYu+Hs81/j220LjvtGyvr3iVh3
+0Qy/9eYXyvfW7RnKGS1bws5fjPiKo9lXWs+I5Vzb7Yetl8iCxf1TW3jqzdRAHS/1
+PynoGP66rnps96PU0WhngbpcNd/H3/kUnbhe++xBS1EoVpWYzQiPVQ8mL1R2fK5o
+LMy5PJc4kn3r4IeFHS3NeQnn9LbZJDFeX/j69L7kzpHDsZcbHx+K+7+dcihxPjby
+M722vA0ezz65KZH/Lnkt/LR/kTxamlcyea50qDNY6biqwbrm76VzxZN7nDeiVPA3
+3Gwb4A==
+=KcIB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/renfredxh
+
+==================================================================
+
