@@ -158,6 +158,13 @@ html,body{
 img.pf-margin {
   margin-bottom: 1rem;
 }
+footer {
+  text-align: center;
+  color: #A3A3A3;
+}
+footer p {
+  font-weight: 100;
+}
 /* Define mobile styles */
 @media only screen { }
 /* max-width 640px, mobile-only */

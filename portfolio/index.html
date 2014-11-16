@@ -193,6 +193,9 @@
       </div>
     </div>
   </div>
+  <footer id="footer">
+    <p>© Renfred Harper</p>
+  </footer>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/foundation/5.0.3/js/foundation.min.js"></script>
   <script>
@@ -207,6 +210,9 @@
         $('.nav-list').slideToggle();
       })
     });
+  </script>
+  <script>
+    window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " Renfred Harper</p>";
   </script>
 </body>
 </html>
